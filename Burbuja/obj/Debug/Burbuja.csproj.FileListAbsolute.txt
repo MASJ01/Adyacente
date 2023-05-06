@@ -1,0 +1,12 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Burbuja\Burbuja\obj\Debug\Burbuja.csprojResolveAssemblyReference.cache
